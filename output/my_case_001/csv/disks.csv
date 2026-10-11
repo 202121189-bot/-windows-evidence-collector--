@@ -1,0 +1,2 @@
+device,mountpoint,fstype,opts,total_gb,used_gb,free_gb,percent_used
+C:\,C:\,NTFS,"rw,fixed",475.69,426.65,49.04,89.7

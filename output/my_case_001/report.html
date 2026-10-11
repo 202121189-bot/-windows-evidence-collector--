@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Windows Evidence Report - BATOOL98</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", Tahoma, sans-serif; background: #0e1117; color: #e6edf3; margin: 0; padding: 24px; }
+  h1 { color: #58a6ff; border-bottom: 2px solid #30363d; padding-bottom: 12px; }
+  h2 { color: #79c0ff; margin-top: 32px; border-left: 4px solid #58a6ff; padding-left: 12px; }
+  .meta { background: #161b22; padding: 16px; border-radius: 8px; border: 1px solid #30363d; margin-bottom: 24px; }
+  .meta span { color: #8b949e; }
+  .meta b { color: #e6edf3; }
+  table { width: 100%; border-collapse: collapse; margin-top: 12px; background: #161b22; border-radius: 8px; overflow: hidden; font-size: 13px; }
+  th { background: #21262d; color: #79c0ff; padding: 10px; text-align: left; }
+  td { padding: 8px 10px; border-top: 1px solid #30363d; }
+  tr:hover { background: #1c2128; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: bold; }
+  .badge-red { background: #da3633; color: white; }
+  .badge-green { background: #238636; color: white; }
+  .badge-yellow { background: #9e6a03; color: white; }
+  .hash { font-family: Consolas, monospace; font-size: 11px; color: #7ee787; }
+  footer { margin-top: 40px; text-align: center; color: #8b949e; font-size: 12px; }
+</style>
+</head>
+<body>
+
+<h1>Windows Evidence Collection Report</h1>
+
+<div class="meta">
+  <p><span>Hostname:</span> <b>BATOOL98</b></p>
+  <p><span>OS:</span> <b>Windows 11</b></p>
+  <p><span>Collected at:</span> <b>2026-10-10T17:13:19</b></p>
+  <p><span>Collector:</span> <b>batoo</b></p>
+</div>
+
+<h2>System Information</h2>
+<table>
+  
+  <tr><td><b>hostname</b></td><td>BATOOL98</td></tr>
+  
+  <tr><td><b>fqdn</b></td><td>BATOOL98</td></tr>
+  
+  <tr><td><b>os</b></td><td>Windows</td></tr>
+  
+  <tr><td><b>os_release</b></td><td>11</td></tr>
+  
+  <tr><td><b>os_version</b></td><td>10.0.26200</td></tr>
+  
+  <tr><td><b>architecture</b></td><td>AMD64</td></tr>
+  
+  <tr><td><b>processor</b></td><td>Intel64 Family 6 Model 140 Stepping 1, GenuineIntel</td></tr>
+  
+  <tr><td><b>python_version</b></td><td>3.13.5</td></tr>
+  
+  <tr><td><b>boot_time</b></td><td>2026-10-05T23:53:26</td></tr>
+  
+  <tr><td><b>uptime_hours</b></td><td>113.33</td></tr>
+  
+  <tr><td><b>cpu_count_logical</b></td><td>8</td></tr>
+  
+  <tr><td><b>cpu_count_physical</b></td><td>4</td></tr>
+  
+  <tr><td><b>total_ram_gb</b></td><td>7.77</td></tr>
+  
+</table>
+
+<h2>Running Processes (303)</h2>
+<table>
+  <tr><th>PID</th><th>Name</th><th>User</th><th>CPU %</th><th>Mem %</th><th>Status</th></tr>
+  
+  <tr><td>0</td><td>System Idle Process</td><td>NT AUTHORITY\SYSTEM</td><td>0.0</td><td>0.0</td><td>running</td></tr>
+  
+  <tr><td>4</td><td>System</td><td>NT AUTHORITY\SYSTEM</td><td>0.0</td><td>0.13</td><td>running</td></tr>
+  
+  <tr><td>140</td><td></td><td>None</td><td>0.0</td><td>0.5</td><td>stopped</td></tr>
+  
+  <tr><td>184</td><td>Registry</td><td>None</td><td>0.0</td><td>0.27</td><td>running</td></tr>
+  
+  <tr><td>708</td><td>csrss.exe</td><td>None</td><td>0.0</td><td>0.05</td><td>running</td></tr>
+  
+  <tr><td>728</td><td>smss.exe</td><td>None</td><td>0.0</td><td>0.01</td><td>running</td></tr>
+  
+  <tr><td>872</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.03</td><td>running</td></tr>
+  
+  <tr><td>1096</td><td>wininit.exe</td><td>None</td><td>0.0</td><td>0.09</td><td>running</td></tr>
+  
+  <tr><td>1216</td><td>services.exe</td><td>None</td><td>0.0</td><td>0.15</td><td>running</td></tr>
+  
+  <tr><td>1260</td><td>LsaIso.exe</td><td>None</td><td>0.0</td><td>0.02</td><td>running</td></tr>
+  
+  <tr><td>1272</td><td>lsass.exe</td><td>None</td><td>0.0</td><td>0.32</td><td>running</td></tr>
+  
+  <tr><td>1396</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.48</td><td>running</td></tr>
+  
+  <tr><td>1432</td><td>fontdrvhost.exe</td><td>None</td><td>0.0</td><td>0.01</td><td>running</td></tr>
+  
+  <tr><td>1480</td><td>WUDFHost.exe</td><td>None</td><td>0.0</td><td>0.03</td><td>running</td></tr>
+  
+  <tr><td>1580</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.22</td><td>running</td></tr>
+  
+  <tr><td>1644</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.09</td><td>running</td></tr>
+  
+  <tr><td>1676</td><td>WUDFHost.exe</td><td>None</td><td>0.0</td><td>0.06</td><td>running</td></tr>
+  
+  <tr><td>1712</td><td>TextInputHost.exe</td><td>BATOOL98\batoo</td><td>0.0</td><td>1.43</td><td>running</td></tr>
+  
+  <tr><td>1728</td><td>igfxCUIServiceN.exe</td><td>None</td><td>0.0</td><td>0.09</td><td>running</td></tr>
+  
+  <tr><td>1852</td><td>WUDFHost.exe</td><td>None</td><td>0.0</td><td>0.07</td><td>running</td></tr>
+  
+  <tr><td>1960</td><td>AdobeIPCBroker.exe</td><td>BATOOL98\batoo</td><td>0.0</td><td>0.14</td><td>running</td></tr>
+  
+  <tr><td>1996</td><td>HPEnhancedLighting.Bg.exe</td><td>BATOOL98\batoo</td><td>0.0</td><td>0.16</td><td>running</td></tr>
+  
+  <tr><td>2024</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.02</td><td>running</td></tr>
+  
+  <tr><td>2040</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.03</td><td>running</td></tr>
+  
+  <tr><td>2096</td><td>Creative Cloud UI Helper.exe</td><td>BATOOL98\batoo</td><td>0.0</td><td>0.21</td><td>running</td></tr>
+  
+  <tr><td>2160</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.04</td><td>running</td></tr>
+  
+  <tr><td>2172</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.03</td><td>running</td></tr>
+  
+  <tr><td>2188</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.08</td><td>running</td></tr>
+  
+  <tr><td>2196</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.12</td><td>running</td></tr>
+  
+  <tr><td>2204</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.07</td><td>running</td></tr>
+  
+  <tr><td>2216</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.09</td><td>running</td></tr>
+  
+  <tr><td>2312</td><td>OpenConsole.exe</td><td>BATOOL98\batoo</td><td>0.0</td><td>0.14</td><td>running</td></tr>
+  
+  <tr><td>2396</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.1</td><td>running</td></tr>
+  
+  <tr><td>2420</td><td>ONENOTEM.EXE</td><td>BATOOL98\batoo</td><td>0.0</td><td>0.05</td><td>running</td></tr>
+  
+  <tr><td>2440</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.08</td><td>running</td></tr>
+  
+  <tr><td>2456</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.21</td><td>running</td></tr>
+  
+  <tr><td>2484</td><td>IntelCpHDCPSvc.exe</td><td>None</td><td>0.0</td><td>0.02</td><td>running</td></tr>
+  
+  <tr><td>2536</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.06</td><td>running</td></tr>
+  
+  <tr><td>2544</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.02</td><td>running</td></tr>
+  
+  <tr><td>2576</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.09</td><td>running</td></tr>
+  
+  <tr><td>2696</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.06</td><td>running</td></tr>
+  
+  <tr><td>2716</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.1</td><td>running</td></tr>
+  
+  <tr><td>2856</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.05</td><td>running</td></tr>
+  
+  <tr><td>2864</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.06</td><td>running</td></tr>
+  
+  <tr><td>2928</td><td>SystemSettings.exe</td><td>BATOOL98\batoo</td><td>0.0</td><td>0.54</td><td>stopped</td></tr>
+  
+  <tr><td>2996</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.05</td><td>running</td></tr>
+  
+  <tr><td>3228</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.06</td><td>running</td></tr>
+  
+  <tr><td>3240</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.17</td><td>running</td></tr>
+  
+  <tr><td>3300</td><td>NgcIso.exe</td><td>None</td><td>0.0</td><td>0.01</td><td>running</td></tr>
+  
+  <tr><td>3332</td><td>svchost.exe</td><td>None</td><td>0.0</td><td>0.2</td><td>running</td></tr>
+  
+</table>
+
+<h2>Network Connections (146)</h2>
+<table>
+  <tr><th>Local</th><th>Remote</th><th>Status</th><th>PID</th></tr>
+  
+  <tr><td>0.0.0.0:51662</td><td></td><td>NONE</td><td>24356</td></tr>
+  
+  <tr><td>192.168.100.29:60844</td><td>20.250.119.64:443</td><td>ESTABLISHED</td><td>28788</td></tr>
+  
+  <tr><td>0.0.0.0:445</td><td></td><td>LISTEN</td><td>4</td></tr>
+  
+  <tr><td>192.168.100.29:22779</td><td>47.246.28.182:443</td><td>ESTABLISHED</td><td>24356</td></tr>
+  
+  <tr><td>:::445</td><td></td><td>LISTEN</td><td>4</td></tr>
+  
+  <tr><td>fe80::7402:960f:28fd:c461:1900</td><td></td><td>NONE</td><td>8664</td></tr>
+  
+  <tr><td>192.168.100.29:139</td><td></td><td>LISTEN</td><td>4</td></tr>
+  
+  <tr><td>192.168.100.29:138</td><td></td><td>NONE</td><td>4</td></tr>
+  
+  <tr><td>2001:1670:1b:7b5:bd98:f4fc:cf3a:5712:2177</td><td></td><td>NONE</td><td>18612</td></tr>
+  
+  <tr><td>127.0.0.1:7586</td><td></td><td>LISTEN</td><td>17120</td></tr>
+  
+  <tr><td>0.0.0.0:5050</td><td></td><td>NONE</td><td>11308</td></tr>
+  
+  <tr><td>2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:6894</td><td>2603:1046:c0c:c0d::2:443</td><td>TIME_WAIT</td><td>0</td></tr>
+  
+  <tr><td>2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:64454</td><td>2001:1670:0:105::52b2:9e08:443</td><td>ESTABLISHED</td><td>28788</td></tr>
+  
+  <tr><td>192.168.56.1:137</td><td></td><td>NONE</td><td>4</td></tr>
+  
+  <tr><td>192.168.100.29:53160</td><td>18.64.141.40:443</td><td>ESTABLISHED</td><td>28788</td></tr>
+  
+  <tr><td>:::135</td><td></td><td>LISTEN</td><td>1580</td></tr>
+  
+  <tr><td>::1:42050</td><td></td><td>LISTEN</td><td>26972</td></tr>
+  
+  <tr><td>192.168.100.29:1623</td><td>140.82.112.22:443</td><td>ESTABLISHED</td><td>28788</td></tr>
+  
+  <tr><td>:::5353</td><td></td><td>NONE</td><td>22556</td></tr>
+  
+  <tr><td>192.168.56.1:61905</td><td></td><td>NONE</td><td>8664</td></tr>
+  
+  <tr><td>192.168.56.1:139</td><td></td><td>LISTEN</td><td>4</td></tr>
+  
+  <tr><td>192.168.146.1:137</td><td></td><td>NONE</td><td>4</td></tr>
+  
+  <tr><td>0.0.0.0:51615</td><td></td><td>NONE</td><td>2440</td></tr>
+  
+  <tr><td>2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:26422</td><td>2600:9000:2715:0:3d00:c8:4:9d02:443</td><td>ESTABLISHED</td><td>24356</td></tr>
+  
+  <tr><td>:::52173</td><td></td><td>NONE</td><td>24356</td></tr>
+  
+  <tr><td>2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:18084</td><td>2001:1670:0:105::52b2:9e08:443</td><td>ESTABLISHED</td><td>28788</td></tr>
+  
+  <tr><td>192.168.56.1:1900</td><td></td><td>NONE</td><td>8664</td></tr>
+  
+  <tr><td>0.0.0.0:49664</td><td></td><td>LISTEN</td><td>1272</td></tr>
+  
+  <tr><td>127.0.0.1:60883</td><td></td><td>LISTEN</td><td>27116</td></tr>
+  
+  <tr><td>192.168.100.29:7520</td><td>51.132.193.106:443</td><td>ESTABLISHED</td><td>27168</td></tr>
+  
+  <tr><td>0.0.0.0:4500</td><td></td><td>NONE</td><td>3748</td></tr>
+  
+  <tr><td>192.168.56.1:2177</td><td></td><td>NONE</td><td>18612</td></tr>
+  
+  <tr><td>127.0.0.1:49322</td><td></td><td>NONE</td><td>6232</td></tr>
+  
+  <tr><td>0.0.0.0:7680</td><td></td><td>LISTEN</td><td>24376</td></tr>
+  
+  <tr><td>192.168.146.1:139</td><td></td><td>LISTEN</td><td>4</td></tr>
+  
+  <tr><td>fe80::7402:960f:28fd:c461:2177</td><td></td><td>NONE</td><td>18612</td></tr>
+  
+  <tr><td>127.0.0.1:6463</td><td></td><td>LISTEN</td><td>28128</td></tr>
+  
+  <tr><td>192.168.100.29:11216</td><td>47.246.28.179:443</td><td>TIME_WAIT</td><td>0</td></tr>
+  
+  <tr><td>192.168.232.1:138</td><td></td><td>NONE</td><td>4</td></tr>
+  
+  <tr><td>2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:6893</td><td>2603:1063:2001:2807::365:ff1:443</td><td>ESTABLISHED</td><td>11464</td></tr>
+  
+  <tr><td>192.168.100.29:13112</td><td>192.168.100.1:53</td><td>TIME_WAIT</td><td>0</td></tr>
+  
+  <tr><td>:::49670</td><td></td><td>LISTEN</td><td>1216</td></tr>
+  
+  <tr><td>0.0.0.0:58685</td><td></td><td>NONE</td><td>2440</td></tr>
+  
+  <tr><td>0.0.0.0:135</td><td></td><td>LISTEN</td><td>1580</td></tr>
+  
+  <tr><td>2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:35990</td><td>2001:1670:0:105::52b2:9e08:443</td><td>ESTABLISHED</td><td>28788</td></tr>
+  
+  <tr><td>192.168.100.29:12727</td><td>192.168.100.1:53</td><td>TIME_WAIT</td><td>0</td></tr>
+  
+  <tr><td>0.0.0.0:5355</td><td></td><td>NONE</td><td>2440</td></tr>
+  
+  <tr><td>:::49664</td><td></td><td>LISTEN</td><td>1272</td></tr>
+  
+  <tr><td>0.0.0.0:52173</td><td></td><td>NONE</td><td>24356</td></tr>
+  
+  <tr><td>192.168.100.29:43541</td><td>192.168.100.1:53</td><td>TIME_WAIT</td><td>0</td></tr>
+  
+</table>
+
+<h2>Local Users</h2>
+<table>
+  <tr><th>Name</th><th>Enabled</th><th>Last Logon</th><th>Description</th></tr>
+  
+  <tr><td>Administrator</td><td><span class="badge badge-red">Disabled</span></td><td>None</td><td>Built-in account for administering the computer/domain</td></tr>
+  
+  <tr><td>batoo</td><td><span class="badge badge-green">Enabled</span></td><td>None</td><td></td></tr>
+  
+  <tr><td>DefaultAccount</td><td><span class="badge badge-red">Disabled</span></td><td>None</td><td>A user account managed by the system.</td></tr>
+  
+  <tr><td>Guest</td><td><span class="badge badge-red">Disabled</span></td><td>None</td><td>Built-in account for guest access to the computer/domain</td></tr>
+  
+  <tr><td>WDAGUtilityAccount</td><td><span class="badge badge-red">Disabled</span></td><td>None</td><td>A user account managed and used by the system for Windows Defender Application Guard scenarios.</td></tr>
+  
+  <tr><td>WsiAccount</td><td><span class="badge badge-red">Disabled</span></td><td>/Date(1791269582243)/</td><td>A user account managed and used by the system for Web Sign-in scenarios.</td></tr>
+  
+</table>
+
+<h2>Disks</h2>
+<table>
+  <tr><th>Device</th><th>Mount</th><th>FS</th><th>Total GB</th><th>Used GB</th><th>Free GB</th><th>%</th></tr>
+  
+  <tr><td>C:\</td><td>C:\</td><td>NTFS</td><td>475.69</td><td>426.65</td><td>49.04</td><td><span class="badge badge-red">89.7%</span></td></tr>
+  
+</table>
+
+<h2>Event Logs Metadata</h2>
+<table>
+  <tr><th>Log</th><th>Records</th><th>Size (MB)</th><th>Enabled</th><th>Last Write</th></tr>
+  
+  <tr><td>Security</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr>
+  
+  <tr><td>System</td><td>38915</td><td>20</td><td>True</td><td>2026-10-10T17:07:06.0554092+04:00</td></tr>
+  
+  <tr><td>Application</td><td>52914</td><td>20</td><td>True</td><td>2026-10-10T17:12:06.0885786+04:00</td></tr>
+  
+</table>
+
+<h2>Evidence Integrity (SHA-256 Manifest)</h2>
+<table>
+  <tr><th>File</th><th>SHA-256</th></tr>
+  
+  <tr><td>csv/disks.csv</td><td class="hash">e244fef73df600af4ccd1a5ae8180105...</td></tr>
+  
+  <tr><td>csv/network.csv</td><td class="hash">135561773fa7823b14b8513dc877e872...</td></tr>
+  
+  <tr><td>csv/processes.csv</td><td class="hash">c0d2430a8ed994db0148bdba4c98ef43...</td></tr>
+  
+  <tr><td>csv/users.csv</td><td class="hash">cd99b2acb001237a68a862dfea890bc7...</td></tr>
+  
+  <tr><td>json/disks.json</td><td class="hash">869b0588921f66ba40ef812392f642e0...</td></tr>
+  
+  <tr><td>json/event_logs.json</td><td class="hash">c62b7e675f84e1e7c746d72e02615393...</td></tr>
+  
+  <tr><td>json/ip_config.json</td><td class="hash">2ad3544e26c7c030e5ef7323bd18adc1...</td></tr>
+  
+  <tr><td>json/network.json</td><td class="hash">35ac5d569b8bc31b792c13b9bad7897e...</td></tr>
+  
+  <tr><td>json/processes.json</td><td class="hash">c47f3ec9a909e41da8fa896b5084c4cc...</td></tr>
+  
+  <tr><td>json/system_info.json</td><td class="hash">25d4ad471f66a9186a6fe503b74fbd27...</td></tr>
+  
+  <tr><td>json/users.json</td><td class="hash">23778edb235e99dfa83049de4855184b...</td></tr>
+  
+  <tr><td>report.html</td><td class="hash">0bfadcc73655a5f91614310e19ac31b9...</td></tr>
+  
+</table>
+
+<footer>Generated by <b>Windows Evidence Collector</b> - DFIR Tool<br>2026-10-10T17:13:19</footer>
+
+</body>
+</html>

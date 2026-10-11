@@ -1,0 +1,1316 @@
+[
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:51662",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:60844",
+    "remote_address": "20.250.119.64:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:445",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:22779",
+    "remote_address": "47.246.28.182:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::445",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::7402:960f:28fd:c461:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:139",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.100.29:138",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "2001:1670:1b:7b5:bd98:f4fc:cf3a:5712:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "127.0.0.1:7586",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 17120
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:5050",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 11308
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:6894",
+    "remote_address": "2603:1046:c0c:c0d::2:443",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:64454",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.56.1:137",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:53160",
+    "remote_address": "18.64.141.40:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::135",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1580
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "::1:42050",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 26972
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:1623",
+    "remote_address": "140.82.112.22:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::5353",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 22556
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.56.1:61905",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.56.1:139",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.146.1:137",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:51615",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:26422",
+    "remote_address": "2600:9000:2715:0:3d00:c8:4:9d02:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::52173",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:18084",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.56.1:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:49664",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1272
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "127.0.0.1:60883",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 27116
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:7520",
+    "remote_address": "51.132.193.106:443",
+    "status": "ESTABLISHED",
+    "pid": 27168
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:4500",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 3748
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.56.1:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "127.0.0.1:49322",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 6232
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:7680",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 24376
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.146.1:139",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::7402:960f:28fd:c461:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "127.0.0.1:6463",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 28128
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:11216",
+    "remote_address": "47.246.28.179:443",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.232.1:138",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:6893",
+    "remote_address": "2603:1063:2001:2807::365:ff1:443",
+    "status": "ESTABLISHED",
+    "pid": 11464
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:13112",
+    "remote_address": "192.168.100.1:53",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::49670",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1216
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:58685",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:135",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1580
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:35990",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:12727",
+    "remote_address": "192.168.100.1:53",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:5355",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::49664",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1272
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:52173",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:43541",
+    "remote_address": "192.168.100.1:53",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:20664",
+    "remote_address": "192.168.100.1:53",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:49666",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 2396
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:5353",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::74fa:f49b:1a5b:fe16:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::51662",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.232.1:139",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.56.1:138",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:45302",
+    "remote_address": "2603:1061:10::16:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:48526",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:38634",
+    "remote_address": "192.168.100.1:53",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:1705",
+    "remote_address": "2a00:1450:4018:80b::2003:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:49670",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1216
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "127.0.0.1:38776",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 27168
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.232.1:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:5040",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 11308
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:49472",
+    "remote_address": "2603:1040:a06:6:::443",
+    "status": "ESTABLISHED",
+    "pid": 6700
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.146.1:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:32191",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.100.29:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:7559",
+    "remote_address": "140.82.112.22:443",
+    "status": "ESTABLISHED",
+    "pid": 27168
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::e45:d3dd:2545:5ff7:61901",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:34836",
+    "remote_address": "140.82.113.21:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::74fa:f49b:1a5b:fe16:61900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "::1:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:62169",
+    "remote_address": "13.107.5.93:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::e45:d3dd:2545:5ff7:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::7402:960f:28fd:c461:61902",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:50081",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 24492
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:15615",
+    "remote_address": "47.246.28.182:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:42123",
+    "remote_address": "192.168.100.1:53",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.100.29:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "127.0.0.1:62131",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2456
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:12237",
+    "remote_address": "4.150.223.96:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:27458",
+    "remote_address": "2603:1061:10:1::16:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:49667",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 3800
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::58685",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "::1:49669",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 6944
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.232.1:137",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.100.29:137",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:58988",
+    "remote_address": "2603:1020:1001:11::8:443",
+    "status": "ESTABLISHED",
+    "pid": 18512
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.146.1:138",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 4
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:11022",
+    "remote_address": "142.250.186.14:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:1297",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:50601",
+    "remote_address": "2a00:1450:400c:c1d::bc:5228",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:37319",
+    "remote_address": "192.168.100.1:53",
+    "status": "TIME_WAIT",
+    "pid": 0
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "127.0.0.1:15292",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 25660
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:912",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 6584
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:33379",
+    "remote_address": "13.107.5.93:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.232.1:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::50081",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 24492
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.100.29:61908",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::51615",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::8bd4:f816:f1cd:3cde:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:902",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 6584
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "127.0.0.1:61909",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "::1:61904",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::4500",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 3748
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::7680",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 24376
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:39250",
+    "remote_address": "20.250.119.64:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:31459",
+    "remote_address": "140.82.112.21:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:49665",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1096
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::74fa:f49b:1a5b:fe16:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::e45:d3dd:2545:5ff7:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:31008",
+    "remote_address": "2a00:1450:400c:c02::bc:5228",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:5353",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 22556
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:44382",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:20663",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:3600",
+    "remote_address": "2001:1670:0:105::52b2:9e08:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::8bd4:f816:f1cd:3cde:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::500",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 3748
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::123",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 13300
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::49665",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 1096
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::5353",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:46822",
+    "remote_address": "2603:1020:1001:11::2:443",
+    "status": "ESTABLISHED",
+    "pid": 24492
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::49666",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 2396
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:9636",
+    "remote_address": "3.173.21.63:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:500",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 3748
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.146.1:61907",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:60882",
+    "remote_address": "140.82.112.21:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:62208",
+    "remote_address": "20.184.175.17:443",
+    "status": "ESTABLISHED",
+    "pid": 18512
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": ":::5355",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 2440
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:30732",
+    "remote_address": "2606:50c0:8001::154:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "0.0.0.0:49668",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 5464
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:36382",
+    "remote_address": "140.82.112.26:443",
+    "status": "ESTABLISHED",
+    "pid": 24356
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:6236",
+    "remote_address": "2603:1063:1b:107::365:7ea3:443",
+    "status": "ESTABLISHED",
+    "pid": 15300
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "127.0.0.1:1900",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:7596",
+    "remote_address": "2603:1046:c0c:c0d::2:443",
+    "status": "ESTABLISHED",
+    "pid": 11464
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::49667",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 3800
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.146.1:2177",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 18612
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "2",
+    "local_address": "fe80::8bd4:f816:f1cd:3cde:61903",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c:24263",
+    "remote_address": "2603:1061:14:a2::1:443",
+    "status": "ESTABLISHED",
+    "pid": 28788
+  },
+  {
+    "fd": -1,
+    "family": "23",
+    "type": "1",
+    "local_address": ":::49668",
+    "remote_address": "",
+    "status": "LISTEN",
+    "pid": 5464
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "0.0.0.0:123",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 13300
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "2",
+    "local_address": "192.168.232.1:61906",
+    "remote_address": "",
+    "status": "NONE",
+    "pid": 8664
+  },
+  {
+    "fd": -1,
+    "family": "2",
+    "type": "1",
+    "local_address": "192.168.100.29:21093",
+    "remote_address": "20.184.175.17:443",
+    "status": "ESTABLISHED",
+    "pid": 18512
+  }
+]

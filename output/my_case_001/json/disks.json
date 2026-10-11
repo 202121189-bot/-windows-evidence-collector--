@@ -1,0 +1,12 @@
+[
+  {
+    "device": "C:\\",
+    "mountpoint": "C:\\",
+    "fstype": "NTFS",
+    "opts": "rw,fixed",
+    "total_gb": 475.69,
+    "used_gb": 426.65,
+    "free_gb": 49.04,
+    "percent_used": 89.7
+  }
+]

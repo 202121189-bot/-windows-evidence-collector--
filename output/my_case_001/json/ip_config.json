@@ -1,0 +1,204 @@
+{
+  "interfaces": {
+    "Ethernet 2": {
+      "is_up": true,
+      "speed_mbps": 1000,
+      "addresses": [
+        {
+          "family": "-1",
+          "address": "0A-00-27-00-00-12",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "2",
+          "address": "192.168.56.1",
+          "netmask": "255.255.255.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "fe80::74fa:f49b:1a5b:fe16",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    },
+    "Local Area Connection* 1": {
+      "is_up": false,
+      "speed_mbps": 0,
+      "addresses": [
+        {
+          "family": "-1",
+          "address": "12-6F-D9-2F-7C-A5",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "2",
+          "address": "169.254.192.77",
+          "netmask": "255.255.0.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "fe80::26a2:7f95:cac2:7584",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    },
+    "Local Area Connection* 2": {
+      "is_up": false,
+      "speed_mbps": 0,
+      "addresses": [
+        {
+          "family": "-1",
+          "address": "92-6F-D9-2F-7C-A5",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "2",
+          "address": "169.254.36.134",
+          "netmask": "255.255.0.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "fe80::424:6456:276b:a722",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    },
+    "VMware Network Adapter VMnet1": {
+      "is_up": true,
+      "speed_mbps": 100,
+      "addresses": [
+        {
+          "family": "-1",
+          "address": "00-50-56-C0-00-01",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "2",
+          "address": "192.168.232.1",
+          "netmask": "255.255.255.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "fe80::e45:d3dd:2545:5ff7",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    },
+    "VMware Network Adapter VMnet8": {
+      "is_up": true,
+      "speed_mbps": 100,
+      "addresses": [
+        {
+          "family": "-1",
+          "address": "00-50-56-C0-00-08",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "2",
+          "address": "192.168.146.1",
+          "netmask": "255.255.255.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "fe80::7402:960f:28fd:c461",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    },
+    "Wi-Fi": {
+      "is_up": true,
+      "speed_mbps": 150,
+      "addresses": [
+        {
+          "family": "-1",
+          "address": "10-6F-D9-2F-7C-A5",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "2",
+          "address": "192.168.100.29",
+          "netmask": "255.255.255.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "2001:1670:1b:7b5:bd98:f4fc:cf3a:5712",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "2001:1670:1b:7b5:90b9:ab6d:50c0:c8c",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "fe80::8bd4:f816:f1cd:3cde",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    },
+    "Bluetooth Network Connection 2": {
+      "is_up": false,
+      "speed_mbps": 3,
+      "addresses": [
+        {
+          "family": "-1",
+          "address": "10-6F-D9-2F-7C-A6",
+          "netmask": null,
+          "broadcast": null
+        },
+        {
+          "family": "2",
+          "address": "169.254.15.67",
+          "netmask": "255.255.0.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "fe80::836d:bedd:e6c2:ae7a",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    },
+    "Loopback Pseudo-Interface 1": {
+      "is_up": true,
+      "speed_mbps": 1073,
+      "addresses": [
+        {
+          "family": "2",
+          "address": "127.0.0.1",
+          "netmask": "255.0.0.0",
+          "broadcast": null
+        },
+        {
+          "family": "23",
+          "address": "::1",
+          "netmask": null,
+          "broadcast": null
+        }
+      ]
+    }
+  },
+  "dns": "[\r\n    {\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"ServerAddresses\":  [\r\n\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"ServerAddresses\":  [\r\n                                \"fec0:0:0:ffff::1\",\r\n                                \"fec0:0:0:ffff::2\",\r\n                                \"fec0:0:0:ffff::3\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Local Area Connection* 1\",\r\n        \"ServerAddresses\":  [\r\n\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Local Area Connection* 1\",\r\n        \"ServerAddresses\":  [\r\n                                \"fec0:0:0:ffff::1\",\r\n                                \"fec0:0:0:ffff::2\",\r\n                                \"fec0:0:0:ffff::3\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Local Area Connection* 2\",\r\n        \"ServerAddresses\":  [\r\n\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Local Area Connection* 2\",\r\n        \"ServerAddresses\":  [\r\n                                \"fec0:0:0:ffff::1\",\r\n                                \"fec0:0:0:ffff::2\",\r\n                                \"fec0:0:0:ffff::3\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"ServerAddresses\":  [\r\n\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"ServerAddresses\":  [\r\n                                \"fec0:0:0:ffff::1\",\r\n                                \"fec0:0:0:ffff::2\",\r\n                                \"fec0:0:0:ffff::3\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"ServerAddresses\":  [\r\n\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"ServerAddresses\":  [\r\n                                \"fec0:0:0:ffff::1\",\r\n                                \"fec0:0:0:ffff::2\",\r\n                                \"fec0:0:0:ffff::3\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"ServerAddresses\":  [\r\n                                \"192.168.100.1\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"ServerAddresses\":  [\r\n                                \"fe80::1\",\r\n                                \"fe80::1\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Bluetooth Network Connection 2\",\r\n        \"ServerAddresses\":  [\r\n\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Bluetooth Network Connection 2\",\r\n        \"ServerAddresses\":  [\r\n                                \"fec0:0:0:ffff::1\",\r\n                                \"fec0:0:0:ffff::2\",\r\n                                \"fec0:0:0:ffff::3\"\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"ServerAddresses\":  [\r\n\r\n                            ]\r\n    },\r\n    {\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"ServerAddresses\":  [\r\n                                \"fec0:0:0:ffff::1\",\r\n                                \"fec0:0:0:ffff::2\",\r\n                                \"fec0:0:0:ffff::3\"\r\n                            ]\r\n    }\r\n]",
+  "routes": "[\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Bluetooth Network Connection 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"255.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Bluetooth Network Connection 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"224.0.0.0/4\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.232.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.232.1/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.232.0/24\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.146.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.146.1/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.146.0/24\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.100.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.100.29/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.100.0/24\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.56.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.56.1/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"192.168.56.0/24\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"127.255.255.255/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"127.0.0.1/32\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"127.0.0.0/8\",\r\n        \"NextHop\":  \"0.0.0.0\",\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"0.0.0.0/0\",\r\n        \"NextHop\":  \"192.168.100.1\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  0\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Bluetooth Network Connection 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"ff00::/8\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::8bd4:f816:f1cd:3cde/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::836d:bedd:e6c2:ae7a/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Bluetooth Network Connection 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::74fa:f49b:1a5b:fe16/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::7402:960f:28fd:c461/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::26a2:7f95:cac2:7584/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::e45:d3dd:2545:5ff7/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::424:6456:276b:a722/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Local Area Connection* 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"VMware Network Adapter VMnet8\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Bluetooth Network Connection 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"fe80::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Ethernet 2\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"2001:1670:1b:7b5:bd98:f4fc:cf3a:5712/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"2001:1670:1b:7b5:90b9:ab6d:50c0:c8c/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"2001:1670:1b:7b5::/64\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"::1/128\",\r\n        \"NextHop\":  \"::\",\r\n        \"InterfaceAlias\":  \"Loopback Pseudo-Interface 1\",\r\n        \"RouteMetric\":  256\r\n    },\r\n    {\r\n        \"DestinationPrefix\":  \"::/0\",\r\n        \"NextHop\":  \"fe80::1\",\r\n        \"InterfaceAlias\":  \"Wi-Fi\",\r\n        \"RouteMetric\":  256\r\n    }\r\n]"
+}

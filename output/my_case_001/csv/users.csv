@@ -1,0 +1,7 @@
+Name,Enabled,LastLogon,PasswordRequired,Description
+Administrator,False,,True,Built-in account for administering the computer/domain
+batoo,True,,True,
+DefaultAccount,False,,False,A user account managed by the system.
+Guest,False,,False,Built-in account for guest access to the computer/domain
+WDAGUtilityAccount,False,,True,A user account managed and used by the system for Windows Defender Application Guard scenarios.
+WsiAccount,False,/Date(1791269582243)/,False,A user account managed and used by the system for Web Sign-in scenarios.

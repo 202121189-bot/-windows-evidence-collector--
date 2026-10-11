@@ -1,0 +1,15 @@
+{
+  "hostname": "BATOOL98",
+  "fqdn": "BATOOL98",
+  "os": "Windows",
+  "os_release": "11",
+  "os_version": "10.0.26200",
+  "architecture": "AMD64",
+  "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+  "python_version": "3.13.5",
+  "boot_time": "2026-10-05T23:53:26",
+  "uptime_hours": 113.33,
+  "cpu_count_logical": 8,
+  "cpu_count_physical": 4,
+  "total_ram_gb": 7.77
+}

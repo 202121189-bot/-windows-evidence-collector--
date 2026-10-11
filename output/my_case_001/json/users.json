@@ -1,0 +1,48 @@
+{
+  "local_users": [
+    {
+      "Name": "Administrator",
+      "Enabled": false,
+      "LastLogon": null,
+      "PasswordRequired": true,
+      "Description": "Built-in account for administering the computer/domain"
+    },
+    {
+      "Name": "batoo",
+      "Enabled": true,
+      "LastLogon": null,
+      "PasswordRequired": true,
+      "Description": ""
+    },
+    {
+      "Name": "DefaultAccount",
+      "Enabled": false,
+      "LastLogon": null,
+      "PasswordRequired": false,
+      "Description": "A user account managed by the system."
+    },
+    {
+      "Name": "Guest",
+      "Enabled": false,
+      "LastLogon": null,
+      "PasswordRequired": false,
+      "Description": "Built-in account for guest access to the computer/domain"
+    },
+    {
+      "Name": "WDAGUtilityAccount",
+      "Enabled": false,
+      "LastLogon": null,
+      "PasswordRequired": true,
+      "Description": "A user account managed and used by the system for Windows Defender Application Guard scenarios."
+    },
+    {
+      "Name": "WsiAccount",
+      "Enabled": false,
+      "LastLogon": "/Date(1791269582243)/",
+      "PasswordRequired": false,
+      "Description": "A user account managed and used by the system for Web Sign-in scenarios."
+    }
+  ],
+  "active_sessions": [],
+  "active_sessions_error": "[WinError 2] The system cannot find the file specified"
+}

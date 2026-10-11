@@ -1,0 +1,19 @@
+{
+  "Security": {
+    "error": "Command '['powershell', '-NoProfile', '-Command', \"$log = Get-WinEvent -ListLog 'Security' -ErrorAction Stop; @{LogName=$log.LogName;RecordCount=$log.RecordCount;FileSizeMB=[math]::Round($log.FileSize/1MB,2);IsEnabled=$log.IsEnabled;LastWriteTime=$log.LastWriteTime.ToString('o')} | ConvertTo-Json\"]' returned non-zero exit status 1."
+  },
+  "System": {
+    "RecordCount": 38915,
+    "IsEnabled": true,
+    "LastWriteTime": "2026-10-10T17:07:06.0554092+04:00",
+    "LogName": "System",
+    "FileSizeMB": 20
+  },
+  "Application": {
+    "RecordCount": 52914,
+    "IsEnabled": true,
+    "LastWriteTime": "2026-10-10T17:12:06.0885786+04:00",
+    "LogName": "Application",
+    "FileSizeMB": 20
+  }
+}

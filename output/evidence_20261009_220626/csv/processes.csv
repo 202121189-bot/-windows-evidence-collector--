@@ -1,0 +1,334 @@
+pid,name,exe,username,cpu_percent,memory_percent,create_time,status,cmdline
+0,System Idle Process,,NT AUTHORITY\SYSTEM,0.0,0.0,0.0,running,
+4,System,,NT AUTHORITY\SYSTEM,0.0,0.01,0.0,running,
+140,,,,0.0,0.5,1791230007.5379205,stopped,
+152,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.84,1791559408.0792456,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\7EE7776C.LinkedInforWindo
+184,Registry,Registry,,0.0,0.42,1791230007.5449777,running,
+708,csrss.exe,C:\Windows\System32\csrss.exe,,0.0,0.03,1791230018.0847473,running,
+728,smss.exe,C:\Windows\System32\smss.exe,,0.0,0.01,1791230010.0515857,running,
+840,TabTip.exe,C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe,BATOOL98\batoo,0.0,0.16,1791551108.2587812,running,/QuitInfo:0000000000000368;000000000000032C;
+872,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791230019.4023438,running,
+892,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,BATOOL98\batoo,0.0,0.1,1791565962.179633,running,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=gpu-process --gpu-recent-crash-count=0 --gpu-preferences=WAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAQAAAAAAAAAADAAAAAAAAADgAAAAAAAAAAAAAAAAAAAA
+1096,wininit.exe,C:\Windows\System32\wininit.exe,,0.0,0.06,1791230018.312018,running,
+1136,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.88,1791559012.1576295,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+1216,services.exe,C:\Windows\System32\services.exe,,0.0,0.14,1791230018.437542,running,
+1260,LsaIso.exe,C:\Windows\System32\LsaIso.exe,,0.0,0.01,1791230018.460961,running,
+1272,lsass.exe,C:\Windows\System32\lsass.exe,,0.0,0.31,1791230018.4653916,running,
+1396,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.42,1791230018.7786553,running,
+1432,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,,0.0,0.01,1791230018.7849643,running,
+1456,GameInputRedistService.exe,C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe,BATOOL98\batoo,0.0,0.12,1791551087.511768,running,C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe /session
+1480,WUDFHost.exe,C:\Windows\System32\WUDFHost.exe,,0.0,0.02,1791230018.795138,running,
+1580,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.22,1791230018.8280149,running,
+1644,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.09,1791230018.8534355,running,
+1676,WUDFHost.exe,C:\Windows\System32\WUDFHost.exe,,0.0,0.06,1791230018.8679757,running,
+1728,igfxCUIServiceN.exe,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_5d2e576bb8443cb9\igfxCUIServiceN.exe,,0.0,0.06,1791230019.879933,running,
+1736,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.49,1791568917.7990143,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capt
+1852,WUDFHost.exe,C:\Windows\System32\WUDFHost.exe,,0.0,0.05,1791230019.2089195,running,
+2024,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.02,1791230019.4020152,running,
+2040,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.02,1791230019.402116,running,
+2160,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791230019.4309435,running,
+2172,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791230019.4317954,running,
+2188,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.05,1791230019.4318538,running,
+2196,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.13,1791230019.4321127,running,
+2204,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.07,1791230019.4341292,running,
+2216,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230019.4341397,running,
+2312,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.11,1791558253.552812,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --metrics-shmem-
+2396,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230019.4533596,running,
+2440,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230019.4591153,running,
+2456,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.21,1791230019.4618337,running,
+2484,IntelCpHDCPSvc.exe,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_757104785c02f4c4\IntelCpHDCPSvc.exe,,0.0,0.02,1791230019.46714,running,
+2536,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.07,1791230019.4755118,running,
+2544,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.02,1791230019.4779673,running,
+2576,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.09,1791230019.4838977,running,
+2696,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230019.5011096,running,
+2716,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.07,1791230019.5049226,running,
+2856,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230019.5425801,running,
+2864,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230019.5434906,running,
+2996,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230019.5672705,running,
+3228,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230019.6060252,running,
+3240,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.12,1791230019.6087892,running,
+3284,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.03,1791559398.0853944,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=crashpad-handler --user-data-dir=C:\Users\batoo\AppData\Local\Packages\7EE7776C.LinkedInforWindows_w1wd
+3300,NgcIso.exe,C:\Windows\System32\NgcIso.exe,,0.0,0.01,1791230020.5521004,running,
+3332,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.18,1791230019.625373,running,
+3500,ms-teams.exe,C:\Program Files\WindowsApps\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\ms-teams.exe,BATOOL98\batoo,0.0,0.1,1791551314.2569096,running,C:\Program Files\WindowsApps\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\ms-teams.exe --process_type=native_module --cloud_type=tfw --module_name=SlimCore --native_msg_channel=5fcf47c1-d853-435e-b
+3680,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.09,1791230019.71338,running,
+3748,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791230021.0937471,running,
+3772,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.11,1791230019.7849057,running,
+3780,WUDFHost.exe,C:\Windows\System32\WUDFHost.exe,,0.0,0.02,1791230019.7898734,running,
+3800,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230019.7950983,running,
+3860,python.exe,C:\Users\batoo\AppData\Local\Programs\Python\Python313\python.exe,BATOOL98\batoo,0.0,0.4,1791569185.9100845,running,C:\Users\batoo\AppData\Local\Programs\Python\Python313\python.exe collector.py
+3916,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230019.8226607,running,
+3924,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230019.8226984,running,
+3932,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791230019.823904,running,
+4024,MemCompression,MemCompression,,0.0,3.55,1791230019.845755,running,
+4084,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.07,1791230019.8553405,running,
+4140,AppHelperCap.exe,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\AppHelperCap.exe,,0.0,0.12,1791230019.9395192,running,
+4180,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.04,1791230019.9532447,running,
+4204,NetworkCap.exe,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\NetworkCap.exe,,0.0,0.07,1791230019.9578204,running,
+4212,SysInfoCap.exe,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\SysInfoCap.exe,,0.0,0.24,1791230019.957873,running,
+4220,TouchpointAnalyticsClientService.exe,C:\Windows\System32\DriverStore\FileRepository\hpanalyticscomp.inf_amd64_0f2b4c962c16d743\x64\TouchpointAnalyticsClientService.exe,,0.0,0.41,1791230019.9629328,running,
+4228,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.05,1791230019.9633434,running,
+4316,hp-one-agent-service.exe,C:\Program Files\HP\HP One Agent\hp-one-agent-service.exe,,0.0,0.19,1791230020.0149825,running,
+4392,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.2,1791230020.0501084,running,
+4600,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.09,1791551108.378266,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=gpu-process --gpu-recent-crash-count=0 --noerrdialogs --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
+4632,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.26,1791230024.1215749,running,
+4636,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.13,1791230020.2000642,running,
+4768,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.08,1791551087.8101723,running,C:\WINDOWS\system32\svchost.exe -k PenService -s PenService
+4784,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.07,1791230020.31801,running,
+4964,SearchFilterHost.exe,C:\Windows\System32\SearchFilterHost.exe,,0.0,0.13,1791568850.8430555,running,
+5004,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791567113.8748224,running,C:\WINDOWS\system32\notepad.exe collector.py
+5048,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.2,1791230020.4807842,running,
+5076,ms-teams.exe,C:\Program Files\WindowsApps\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\ms-teams.exe,BATOOL98\batoo,0.0,0.24,1791551324.7826095,running,C:\Program Files\WindowsApps\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\ms-teams.exe --process_type=native_module --cloud_type=tfl --module_name=SlimCore --native_msg_channel=28f765d0-48eb-424d-b
+5080,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,BATOOL98\batoo,0.0,0.05,1791551180.322971,stopped,C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+5084,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230020.503853,running,
+5152,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.09,1791230020.6379297,running,
+5180,esif_uf.exe,C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_4ce8bafd96682424\esif_uf.exe,,0.0,0.02,1791230021.0158076,running,
+5200,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791567094.2298384,running,C:\WINDOWS\system32\notepad.exe templates\report_template.html
+5204,GameInputRedistService.exe,C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe,,0.0,0.05,1791230021.0157914,running,
+5224,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.26,1791230021.0125873,running,
+5296,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.15,1791230020.685923,running,
+5344,HPPrintScanDoctorService.exe,C:\Program Files\HPPrintScanDoctor\HPPrintScanDoctorService.exe,,0.0,0.12,1791230021.0791748,running,
+5376,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.07,1791230020.7017484,running,
+5444,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.42,1791567317.5854063,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\7EE7776C.LinkedInforWindo
+5464,spoolsv.exe,C:\Windows\System32\spoolsv.exe,,0.0,0.07,1791230020.730296,running,
+5528,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,BATOOL98\batoo,0.0,0.07,1791551153.0415175,running,C:\WINDOWS\system32\wbem\unsecapp.exe -Embedding
+5620,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.11,1791230020.797387,running,
+5636,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,,0.0,0.03,1791230020.8061988,running,
+5780,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,,0.0,0.18,1791230020.8555095,running,
+5852,OneApp.IGCC.WinService.exe,C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_fd482888e9c3df70\OneApp.IGCC.WinService.exe,,0.0,0.11,1791230021.0914955,running,
+5880,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.04,1791230020.8824973,running,
+6036,HPCommRecovery.exe,C:\Program Files\HPCommRecovery\HPCommRecovery.exe,,0.0,0.07,1791230021.0841663,running,
+6080,armsvc.exe,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe,,0.0,0.02,1791230020.9863691,running,
+6092,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.37,1791230020.986689,running,
+6100,AdobeUpdateService.exe,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\AdobeUpdateService.exe,,0.0,0.03,1791230020.9880152,running,
+6112,OfficeClickToRun.exe,C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe,,0.0,0.14,1791230020.9935591,running,
+6124,ELAN_MOC_Service.exe,C:\Windows\System32\ELAN_MOC_Service.exe,,0.0,0.03,1791230021.001752,running,
+6188,IntelAudioService.exe,C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_eddaa0f6dbdf4dd1\AS\IAS\IntelAudioService.exe,,0.0,0.08,1791230021.110264,running,
+6232,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.09,1791230021.1159213,running,
+6272,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.04,1791230021.1294827,running,
+6316,LMS.exe,C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_a55aa2cd52a3429d\LMS.exe,,0.0,0.03,1791230021.14694,running,
+6332,explorer.exe,C:\Windows\explorer.exe,BATOOL98\batoo,0.0,2.15,1791551089.1996615,running,C:\WINDOWS\Explorer.EXE
+6340,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791315044.3930023,running,
+6364,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.08,1791559020.8373592,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --no-pr
+6396,RstMwService.exe,C:\Windows\System32\DriverStore\FileRepository\iastorvd.inf_amd64_d9aa4f0713cc07ec\RstMwService.exe,,0.0,0.02,1791230021.2049153,running,
+6404,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.06,1791230021.2106836,running,
+6416,RtkAudUService64.exe,C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_5b7acb8ae279027d\RtkAudUService64.exe,,0.0,0.09,1791230021.2151475,running,
+6448,RtkBtManServ.exe,C:\Windows\RtkBtManServ.exe,,0.0,0.03,1791230021.2318192,running,
+6472,SECOMN64.exe,C:\Windows\System32\SECOMN64.exe,,0.0,0.09,1791230021.237225,running,
+6528,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791230021.266935,running,
+6584,vmware-authd.exe,C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe,,0.0,0.02,1791230021.2849748,running,
+6592,vmnetdhcp.exe,C:\Windows\SysWOW64\vmnetdhcp.exe,,0.0,0.01,1791230021.2876644,running,
+6632,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.04,1791558253.1484425,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=crashpad-handler --user-data-dir=C:\Users\batoo\AppData\Local\Google\Chrome\User Data /prefetch:4 --monitor-self-annotation=ptype=crashpad-
+6636,vmware-usbarbitrator64.exe,C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe,,0.0,0.04,1791230021.297011,running,
+6652,vmnat.exe,C:\Windows\SysWOW64\vmnat.exe,,0.0,0.03,1791230021.2978537,running,
+6692,WMIRegistrationService.exe,C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_d51901c26227fb29\WMIRegistrationService.exe,,0.0,0.02,1791230021.30855,running,
+6700,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.19,1791230021.3116004,running,
+6832,conhost.exe,C:\Windows\System32\conhost.exe,BATOOL98\batoo,0.0,0.04,1791551088.0833812,running,\??\C:\WINDOWS\system32\conhost.exe 0x4
+6884,LinkedIn.exe,C:\Program Files\WindowsApps\7EE7776C.LinkedInforWindows_3.0.43.0_x64__w1wdnht996qgy\LinkedIn.exe,BATOOL98\batoo,0.0,0.37,1791559390.1618073,running,C:\Program Files\WindowsApps\7EE7776C.LinkedInforWindows_3.0.43.0_x64__w1wdnht996qgy\LinkedIn.exe
+6904,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.09,1791551102.3682532,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+6944,jhi_service.exe,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_b5484efd38adbe8d\jhi_service.exe,,0.0,0.01,1791230021.4087677,running,
+7200,Discord.exe,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe,BATOOL98\batoo,0.0,0.46,1791551182.9185607,running,"C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe --type=renderer --user-data-dir=C:\Users\batoo\AppData\Roaming\discord --standard-schemes=disclip --secure-schemes=disclip,sentry-ipc --by"
+7524,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.05,1791230021.662995,running,
+7560,MicrosoftStartFeedProvider.exe,C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe\MicrosoftStartFeedProvider\MicrosoftStartFeedProvider.exe,BATOOL98\batoo,0.0,0.12,1791551110.7643373,running,C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe\MicrosoftStartFeedProvider\MicrosoftStartFeedProvider.exe -Embedding
+7564,audiodg.exe,C:\Windows\System32\audiodg.exe,,0.0,0.29,1791561760.4865012,running,C:\WINDOWS\system32\AUDIODG.EXE 0x0000000000000580
+7572,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.1,1791230021.667559,running,
+7728,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.07,1791551109.0128105,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10
+7800,dasHost.exe,C:\Windows\System32\dasHost.exe,,0.0,0.12,1791230021.777452,running,
+7848,OverlayHelper.exe,C:\Program Files\HP\Overlay\OverlayHelper.exe,BATOOL98\batoo,0.0,0.24,1791551087.9250948,running,C:\Program Files\HP\Overlay\OverlayHelper.exe
+8040,AggregatorHost.exe,C:\Windows\System32\AggregatorHost.exe,,0.0,0.07,1791230021.8806355,running,
+8464,gamingservices.exe,C:\Program Files\WindowsApps\Microsoft.GamingServices_38.117.27001.0_x64__8wekyb3d8bbwe\gamingservices.exe,,0.0,0.28,1791230024.2403677,running,
+8488,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.07,1791551181.795012,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+8508,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.56,1791551323.6881835,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\Loc
+8548,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.04,1791270560.400869,running,
+8664,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.05,1791230022.3182137,running,
+8792,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.14,1791230024.122044,running,
+8828,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.19,1791551109.4533548,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+9032,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791230024.160824,running,
+9052,gamingservicesnet.exe,C:\Program Files\WindowsApps\Microsoft.GamingServices_38.117.27001.0_x64__8wekyb3d8bbwe\gamingservicesnet.exe,,0.0,0.03,1791230024.176005,running,
+9204,cowork-svc.exe,C:\Program Files\WindowsApps\Claude_2.110.0.0_x64__pzs8sxrjxfjjc\app\resources\cowork-svc.exe,,0.0,0.1,1791230024.222273,running,
+9648,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230025.174286,running,
+9656,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.01,1791230025.1750908,running,
+9728,GameInputSvc.exe,C:\Windows\System32\GameInputSvc.exe,,0.0,0.02,1791230028.9769976,running,
+9824,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230025.4449382,running,
+9848,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.14,1791230025.4626143,running,
+9932,CCXProcess.exe,C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe,BATOOL98\batoo,0.0,0.0,1791562231.9982133,running,C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe
+10144,PresentationFontCache.exe,C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe,,0.0,0.03,1791230033.118322,running,
+10656,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.12,1791567325.5782735,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-c
+10732,HP Pen Control.exe,C:\Program Files\WindowsApps\ad2f1837.hppencontrol_3.0.51.0_x64__v10z8vjag6ke6\win32\HP Pen Control.exe,BATOOL98\batoo,0.0,0.08,1791551208.8063169,running,C:\Program Files\WindowsApps\AD2F1837.HPPenControl_3.0.51.0_x64__v10z8vjag6ke6\win32\HP Pen Control.exe
+10760,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.12,1791551110.051028,running,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s NPSMSvc
+10904,Creative Cloud UI Helper.exe,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe,BATOOL98\batoo,0.0,0.1,1791551265.8189113,running,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe --type=renderer --locales-dir-path=C:\Program Files\Common Files\Adobe\Adobe Desktop Common\CEF\locales --log-severity=warn
+10940,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.11,1791230032.1038575,running,
+11020,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.39,1791551312.3180404,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --embedded-browser-webview=1 --webview-exe-name=ms-teams.exe --webview-exe-version=26260.1701.5139.3736 --user
+11112,ctfmon.exe,C:\Windows\System32\ctfmon.exe,BATOOL98\batoo,0.0,0.68,1791551108.096946,running,/QuitInfo:0000000000000210;0000000000000428;
+11172,Creative Cloud UI Helper.exe,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe,BATOOL98\batoo,0.0,0.06,1791551256.843864,running,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --loca
+11176,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.28,1791230033.3150587,running,
+11308,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.18,1791230033.7996776,running,
+11348,OpenConsole.exe,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.12741.0_x64__8wekyb3d8bbwe\OpenConsole.exe,BATOOL98\batoo,0.0,0.04,1791566476.4454367,running,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.12741.0_x64__8wekyb3d8bbwe\OpenConsole.exe --headless --textMeasurement graphemes --width 120 --height 30 --signal 0x980 --server 0x974
+11432,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.03,1791559391.129068,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+11544,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791566685.9759853,running,C:\WINDOWS\system32\notepad.exe modules\processes.py
+11580,ShellHost.exe,C:\Windows\System32\ShellHost.exe,BATOOL98\batoo,0.0,0.98,1791569163.1318095,running,C:\Windows\System32\ShellHost.exe
+11712,DesktopExtension.exe,C:\Program Files\WindowsApps\AD2F1837.myHP_61.52637.14262.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe,BATOOL98\batoo,0.0,0.08,1791551334.1435175,running,C:\Program Files\WindowsApps\AD2F1837.myHP_61.52637.14262.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+11928,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.02,1791230168.9652367,running,
+12072,SystemSettings.exe,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,BATOOL98\batoo,0.0,0.38,1791551201.394288,stopped,C:\Windows\ImmersiveControlPanel\SystemSettings.exe -ServerName:microsoft.windows.immersivecontrolpanel
+12144,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.19,1791568673.978388,running,C:\WINDOWS\system32\notepad.exe setup.ps1
+12188,ms-teams.exe,C:\Program Files\WindowsApps\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\ms-teams.exe,BATOOL98\batoo,0.0,0.4,1791551309.5488343,running,C:\Program Files\WindowsApps\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\ms-teams.exe msteams:system-initiated
+12264,Creative Cloud.exe,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud.exe,BATOOL98\batoo,0.0,0.2,1791551208.5859427,running,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud.exe --showwindow=false --onOSstartup=true
+12488,WidgetService.exe,C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe,BATOOL98\batoo,0.0,0.17,1791551106.335064,running,C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe -RegisterProcessAsComServer -Embedding
+12528,WidgetBoard.exe,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\WidgetBoard.exe,BATOOL98\batoo,0.0,0.09,1791551105.5257196,running,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\WidgetBoard.exe -RegisterProcessAsComServer -ServerName:Microsoft.Windows.WidgetBoardServer
+12624,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.05,1791567050.1442664,running,C:\WINDOWS\system32\notepad.exe modules\event_logs.py
+12744,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,,0.0,0.3,1791230041.4420748,running,
+12768,Discord.exe,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe,BATOOL98\batoo,0.0,0.12,1791551177.3101392,running,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe --type=gpu-process --user-data-dir=C:\Users\batoo\AppData\Roaming\discord --gpu-preferences=SAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAA
+12820,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,1.22,1791567440.387902,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe requirements.txt
+12956,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.04,1791551105.8020327,running,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+13300,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791270560.2381291,running,
+13412,dwm.exe,C:\Windows\System32\dwm.exe,,0.0,0.98,1791499754.0818653,running,
+13496,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.3,1791551091.4116151,running,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+13508,CoreSync.exe,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CoreSync.exe,BATOOL98\batoo,0.0,0.08,1791551281.5081124,running,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CoreSync.exe
+13572,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.53,1791558253.5274732,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-pre-read-main-dll --metrics-shmem-han
+13592,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,BATOOL98\batoo,0.0,0.33,1791565961.4620764,running,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --no-startup-window /prefetch:5
+13644,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.12,1791568574.6724856,running,
+13680,WindowsTerminal.exe,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.12741.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe,BATOOL98\batoo,0.0,0.8,1791566475.9191353,running,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.12741.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe -d C:\Users\batoo\OneDrive - UWE Bristol\Desktop
+13804,hpqwmiex.exe,C:\Program Files (x86)\HP\Shared\hpqwmiex.exe,,0.0,0.05,1791270246.6914487,running,
+13852,copilot-runtime.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\node_modules.asar.unpacked\@github\copilot-sdk-win32-x64\prebuilds\win32-x64\copilot-runtime.exe,BATOOL98\batoo,0.0,0.2,1791567446.3850732,running,c:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\node_modules.asar.unpacked\@github\copilot-sdk-win32-x64\prebuilds\win32-x64\copilot-runtime.exe --headless --no-auto-u
+13936,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.53,1791559397.9142861,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --embedded-browser-webview=1 --webview-exe-name=LinkedIn.exe --webview-exe-version=0.1.0-dule-release-v3-0-43.
+13984,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.07,1791559426.6159463,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\7EE7776C.LinkedInforWindo
+14096,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791567010.3833039,running,C:\WINDOWS\system32\notepad.exe modules\users.py
+14172,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.2,1791230040.026255,running,
+14268,DefenderAiPlatformHost.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26090.9-0\DefenderAiPlatformHost.exe,,0.0,0.07,1791380557.810655,running,
+14464,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.16,1791567321.5199864,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\7EE7776C.LinkedInforWindo
+14652,SearchFilterHost.exe,C:\Windows\System32\SearchFilterHost.exe,,0.0,0.15,1791569170.863822,running,
+14692,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.15,1791551087.8489153,running,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+14736,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.15,1791230042.4925697,running,
+14760,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.02,1791263294.1911016,running,
+14796,BraveCrashHandler.exe,C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler.exe,,0.0,0.0,1791230042.5711553,running,
+15044,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,2.76,1791567441.2062137,running,"C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=renderer --user-data-dir=C:\Users\batoo\AppData\Roaming\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --se"
+15060,OmenInstallMonitor.exe,C:\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe,BATOOL98\batoo,0.0,0.06,1791551087.9255252,running,C:\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+15088,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,,0.0,0.03,1791499754.083918,running,
+15140,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,0.39,1791568401.7397149,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe c:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\extensions\json-language-features\server\dist\node\jso
+15144,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe,BATOOL98\batoo,0.0,1.7,1791551115.1763303,running,C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+15300,MpDefenderCoreService.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26090.9-0\MpDefenderCoreService.exe,,0.0,0.17,1791380546.0021944,running,
+15324,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.02,1791230043.5398452,running,
+15352,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.27,1791551107.4250684,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --embedded-browser-webview=1 --webview-exe-name=SearchHost.exe --webview-exe-version=2608.25008.200.0 --user-d
+15452,DiagsCap.exe,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\DiagsCap.exe,,0.0,0.05,1791230044.1890934,running,
+15520,ONENOTEM.EXE,C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE,BATOOL98\batoo,0.0,0.03,1791551311.9221663,running,C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE /tsr
+15540,BraveCrashHandler64.exe,C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler64.exe,,0.0,0.0,1791230044.539291,running,
+15560,PhoneExperienceHost.exe,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26072.257.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe,BATOOL98\batoo,0.0,0.28,1791551432.4634173,running,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26072.257.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe -ComServer:Background -Embedding
+15608,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.08,1791230044.706711,running,
+15736,Discord.exe,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe,BATOOL98\batoo,0.0,0.24,1791551177.3328123,running,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\Users\batoo\App
+15992,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.82,1791569180.9036334,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capt
+16240,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.15,1791230146.3999305,running,
+16448,HPSystemEventUtilityBackground.exe,C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe,BATOOL98\batoo,0.0,0.13,1791551151.4093072,running,C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe LaunchedByBgLauncher
+16508,CrossDeviceResume.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe,BATOOL98\batoo,0.0,0.07,1791551089.8340964,running,C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe /tileid MicrosoftWindows.Client.CBS_cw5n1h2txyewy!CrossDeviceResumeApp
+16564,taskhostw.exe,C:\Windows\System32\taskhostw.exe,BATOOL98\batoo,0.0,0.12,1791551087.8832698,running,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+16672,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.16,1791567321.0766497,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\7EE7776C.LinkedInforWindo
+16700,NisSrv.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26090.9-0\NisSrv.exe,,0.0,0.17,1791380558.105094,running,
+16780,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe,BATOOL98\batoo,0.0,0.65,1791551108.6654158,stopped,C:\WINDOWS\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca
+16856,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,0.53,1791567442.3759768,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer
+16996,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.1,1791568547.4909089,running,
+17208,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,1.86,1791569163.6900792,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe c:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\extensions\html-language-features\server\dist\node\htm
+17220,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe,BATOOL98\batoo,0.0,0.09,1791551138.1093163,running,C:\Windows\System32\SecurityHealthSystray.exe
+17300,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.13,1791230145.716735,running,
+17348,MsMpEng.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26090.9-0\MsMpEng.exe,,0.0,1.74,1791380544.667578,running,
+17472,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.1,1791230145.2165115,running,
+17892,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.06,1791567227.29316,running,C:\WINDOWS\system32\notepad.exe LICENSE
+17948,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.11,1791230146.2443907,running,
+18104,AdobeIPCBroker.exe,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe,BATOOL98\batoo,0.0,0.03,1791551260.606839,running,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe -launchedbyvulcan-9500 C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe
+18132,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.18,1791559399.6571436,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=gpu-process --gpu-recent-crash-count=0 --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Pack
+18612,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.03,1791315398.948438,running,
+18756,RtkAudUService64.exe,C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_5b7acb8ae279027d\RtkAudUService64.exe,,0.0,0.06,1791551090.6777077,running,
+18832,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,2.19,1791568830.3378224,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+18920,conhost.exe,C:\Windows\System32\conhost.exe,BATOOL98\batoo,0.0,0.0,1791562232.0300446,running,\??\C:\WINDOWS\system32\conhost.exe 0x4
+19356,OmenCommandCenterBackground.exe,C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2609.3.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe,BATOOL98\batoo,0.0,0.59,1791551177.4838693,running,C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2609.3.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+19412,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.15,1791551105.7402003,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+19428,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.06,1791551108.694105,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --n
+19504,SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,,0.0,0.09,1791230074.958263,running,
+19648,Creative Cloud Helper.exe,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe,BATOOL98\batoo,0.0,0.08,1791551276.1616075,running,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe --remoteApplet=LiveType_BL --remoteAppletInstanceID=02CBD077-6B1B-479E-BE58-D72EA2D4A67C --remoteHelper=CCH_LiveType --vulcanI
+19664,HPMediaNetwork.exe,C:\Program Files\HP\HP Media Network\HPMediaNetwork.exe,BATOOL98\batoo,0.0,0.11,1791551159.727834,running,C:\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+19844,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.73,1791566553.6854396,running,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe /SESSION:dFR7CpuL2Ee0hX2PgCiHQwFEQwA6AFwAVQBzAGUAcgBzAFwAYgBhAHQAbwBvAFwARABvAHcAbgBsAG8AYQBkA
+19884,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791566712.076378,running,C:\WINDOWS\system32\notepad.exe modules\network.py
+19928,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.11,1791230076.3418689,running,
+19932,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.05,1791551312.5102673,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=crashpad-handler --user-data-dir=C:\Users\batoo\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache
+20032,HPEnhancedLighting.Bg.exe,C:\Program Files\WindowsApps\ad2f1837.hpenhance_1.4.4.0_x64__v10z8vjag6ke6\Win32\HPEnhancedLighting.Bg.exe,BATOOL98\batoo,0.0,0.05,1791551240.5740533,running,C:\Program Files\WindowsApps\AD2F1837.HPEnhance_1.4.4.0_x64__v10z8vjag6ke6\Win32\HPEnhancedLighting.Bg.exe
+20132,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,BATOOL98\batoo,0.0,0.06,1791565962.3214407,running,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --startup-read-main-dll --metric
+20196,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.15,1791551108.3782468,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noer
+20420,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.06,1791559399.7883716,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --n
+20744,dasHost.exe,C:\Windows\System32\dasHost.exe,,0.0,0.07,1791230068.572624,running,
+20864,CrossDeviceService.exe,C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26072.116.0_x64__cw5n1h2txyewy\CrossDeviceService.exe,BATOOL98\batoo,0.0,0.2,1791551093.6147318,running,C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26072.116.0_x64__cw5n1h2txyewy\CrossDeviceService.exe -RegisterProcessAsComServer -Embedding
+20896,Discord.exe,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe,BATOOL98\batoo,0.0,0.07,1791551185.1723073,running,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer
+21000,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,1.63,1791568399.3382728,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experi
+21116,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,1.85,1791567440.7695165,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=gpu-process --user-data-dir=C:\Users\batoo\AppData\Roaming\Code --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAOAAAAAAAAAABAA
+21124,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,2.64,1791558253.0857668,running,C:\Program Files\Google\Chrome\Application\chrome.exe
+21236,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,0.57,1791568399.0809665,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer
+21756,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,BATOOL98\batoo,0.0,0.37,1791551105.3040264,running,C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe -ServerName:FullTrustApp.AppXykjsye98af63ez2annt9djke8trg8stn.mca
+21832,SECOCL64.exe,C:\Windows\System32\SECOCL64.exe,BATOOL98\batoo,0.0,0.09,1791551088.074901,running,/exit-mutex-guid={332D5ED7-7A8E-4D41-8CA0-5368598F57B9} /host-pipe-name=\\.\pipe\{A52D8885-F828-44FF-A6D1-4621C9777837} /endpoint-id=
+21988,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.06,1791551312.9971044,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+22000,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.22,1791551312.9566493,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noer
+22316,Discord.exe,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe,BATOOL98\batoo,0.0,0.03,1791551177.1646178,running,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\batoo\AppData\Roaming\discord /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype
+22436,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791567135.38437,running,C:\WINDOWS\system32\notepad.exe README.md
+22452,node.exe,C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe,BATOOL98\batoo,0.0,0.3,1791562232.0169132,running,C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe C:\Program Files\Adobe\Adobe Creative Cloud Experience\js\main.js
+22468,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791566602.4669387,running,C:\WINDOWS\system32\notepad.exe requirements.txt
+22564,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.23,1791551087.8101785,running,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+22716,SearchFilterHost.exe,C:\Windows\System32\SearchFilterHost.exe,,0.0,0.13,1791568851.0097291,running,
+22720,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,0.76,1791567443.1654184,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer
+22724,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.2,1791568760.2523234,running,C:\WINDOWS\system32\notepad.exe setup2.ps1
+22792,sihost.exe,C:\Windows\System32\sihost.exe,BATOOL98\batoo,0.0,0.22,1791551087.7676272,running,sihost.exe
+22900,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.07,1791559418.962665,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\7EE7776C.LinkedInforWindo
+22928,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.04,1791551180.8682003,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+23000,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,3.39,1791558324.762539,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+23004,ApplicationFrameHost.exe,C:\Windows\System32\ApplicationFrameHost.exe,BATOOL98\batoo,0.0,0.22,1791551201.3752973,running,C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+23168,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,,0.0,0.23,1791567598.292192,running,
+23200,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.09,1791551205.15919,running,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -s DevicesFlowUserSvc
+23204,csrss.exe,C:\Windows\System32\csrss.exe,,0.0,0.08,1791499753.9279847,running,
+23284,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.05,1791551312.9527173,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=gpu-process --gpu-recent-crash-count=0 --gpu-watchdog-timeout-seconds=15 --noerrdialogs --user-data-dir
+23328,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.09,1791551091.316532,running,
+23892,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.67,1791568826.516236,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --top-chrome-webui --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-captu
+23960,Creative Cloud UI Helper.exe,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe,BATOOL98\batoo,0.0,0.05,1791551283.7112727,running,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe --type=renderer --locales-dir-path=C:\Program Files\Common Files\Adobe\Adobe Desktop Common\CEF\locales --log-severity=warn
+24076,igfxEMN.exe,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_5d2e576bb8443cb9\igfxEMN.exe,BATOOL98\batoo,0.0,0.06,1791551087.832353,running,C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_5d2e576bb8443cb9\igfxEMN.exe
+24376,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.2,1791270260.6379588,running,
+24556,HPSystemEventUtilityHost.exe,C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe,BATOOL98\batoo,0.0,0.06,1791565961.366126,running,C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+24832,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,BATOOL98\batoo,0.0,0.06,1791551434.8192167,running,C:\Windows\System32\RuntimeBroker.exe -Embedding
+24872,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.24,1791558815.8301747,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+25004,Creative Cloud UI Helper.exe,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe,BATOOL98\batoo,0.0,0.12,1791551251.626356,running,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe --type=gpu-process --no-sandbox --locales-dir-path=C:\Program Files\Common Files\Adobe\Adobe Desktop Common\CEF\locales --l
+25036,AppActions.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe,BATOOL98\batoo,0.0,0.09,1791551359.6384168,running,C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe -Embedding
+25048,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,2.09,1791568413.8185384,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe c:\Users\batoo\.vscode\extensions\ms-python.vscode-pylance-2026.4.1\dist\server.bundle.js --cancellationReceive=file:003195053943a6d58e
+25100,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,1.18,1791558253.5108383,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=gpu-process --gpu-recent-crash-count=0 --no-pre-read-main-dll --gpu-preferences=WAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAQAAAAAAAAAADAAAAAAAAADgAAAA
+25168,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.05,1791567206.5898972,running,C:\WINDOWS\system32\notepad.exe .gitignore
+25180,GameInputSvc.exe,C:\Windows\System32\GameInputSvc.exe,,0.0,0.12,1791499763.1181931,running,
+25244,UserOOBEBroker.exe,C:\Windows\System32\oobe\UserOOBEBroker.exe,BATOOL98\batoo,0.0,0.04,1791551207.9656415,running,C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+25264,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,BATOOL98\batoo,0.0,0.39,1791566476.4558134,running,C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+25328,winlogon.exe,C:\Windows\System32\winlogon.exe,,0.0,0.07,1791499753.9583268,running,
+25536,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.1,1791566905.8462126,running,
+25548,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,0.08,1791567440.6236928,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=crashpad-handler --user-data-dir=C:\Users\batoo\AppData\Roaming\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype
+25620,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.31,1791551313.8688123,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\Users\batoo\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\Loc
+25700,Adobe Desktop Service.exe,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe,BATOOL98\batoo,0.0,0.25,1791551265.8883533,running,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe --onOSstartup=true --showwindow=false --waitForRegistration=true
+25716,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,BATOOL98\batoo,0.0,0.13,1791565962.1790855,running,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --startup-read-main-dll --metrics-s
+25836,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.32,1791559399.6546876,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noer
+25848,Discord.exe,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe,BATOOL98\batoo,0.0,0.45,1791551176.8436193,running,C:\Users\batoo\AppData\Local\Discord\app-1.0.9259\Discord.exe --start-inactive
+26140,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.05,1791567073.4678612,running,C:\WINDOWS\system32\notepad.exe modules\disks.py
+26220,Creative Cloud UI Helper.exe,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe,BATOOL98\batoo,0.0,0.02,1791551256.1453953,running,C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud UI Helper.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-sandbox --l
+26252,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.02,1791551338.697688,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-c
+26280,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.36,1791558323.4098928,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capt
+26428,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.08,1791551087.8077989,running,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p -s BluetoothUserService
+26664,SystemOptimizer.exe,C:\Program Files\HP\SystemOptimizer\SystemOptimizer.exe,BATOOL98\batoo,0.0,0.08,1791551087.9371696,running,C:\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+26816,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.08,1791551107.534255,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=crashpad-handler --user-data-dir=C:\Users\batoo\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n
+26836,msedgewebview2.exe,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe,BATOOL98\batoo,0.0,0.01,1791551313.1034331,running,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\154.0.4258.62\msedgewebview2.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --n
+27000,OneDrive.exe,C:\Program Files\Microsoft OneDrive\OneDrive.exe,BATOOL98\batoo,0.0,0.18,1791551168.2591033,running,C:\Program Files\Microsoft OneDrive\OneDrive.exe /background
+27128,SnippingTool.exe,C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2607.23.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe,BATOOL98\batoo,0.0,1.18,1791551671.801464,running,C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2607.23.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe
+27220,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.05,1791566659.9948277,running,C:\WINDOWS\system32\notepad.exe modules\system_info.py
+27296,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.08,1791559342.0895016,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-
+27324,BridgeCommunication.exe,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\BridgeCommunication.exe,BATOOL98\batoo,0.0,0.06,1791551437.8013012,running,C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\BridgeCommunication.exe 36f8652e-ca96-4fa0-ad6b-6d718b4704c5 Global\2bee01e0-3c6c-45fd-9064-24d407cccd60 2
+27336,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.51,1791568879.5878415,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+27344,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.08,1791551087.8316743,running,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc
+27448,svchost.exe,C:\Windows\System32\svchost.exe,BATOOL98\batoo,0.0,0.1,1791551422.3610244,running,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+27452,OneDrive.Sync.Service.exe,C:\Program Files\Microsoft OneDrive\26.178.0913.0006\OneDrive.Sync.Service.exe,BATOOL98\batoo,0.0,0.52,1791551172.273868,running,C:\Program Files\Microsoft OneDrive\26.178.0913.0006\OneDrive.Sync.Service.exe
+27600,SearchHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe,BATOOL98\batoo,0.0,0.25,1791551105.3040364,running,C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+27940,Notepad.exe,C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe,BATOOL98\batoo,0.0,0.04,1791567032.731072,running,C:\WINDOWS\system32\notepad.exe modules\ip_config.py
+28268,Code.exe,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe,BATOOL98\batoo,0.0,0.29,1791567440.7820385,running,C:\Users\batoo\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\Users\batoo\
+28316,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.67,1791559055.7324307,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+28428,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.17,1791558332.7083187,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+28496,DefenderSessionHelper.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26090.9-0\DefenderSessionHelper.exe,BATOOL98\batoo,0.0,0.04,1791551087.5453994,running,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26090.9-0\DefenderSessionHelper.exe
+28956,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,BATOOL98\batoo,0.0,0.04,1791565962.0210233,running,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=crashpad-handler --user-data-dir=C:\Users\batoo\AppData\Local\Microsoft\Edge\User Data /prefetch:4 --monitor-self-annotation=ptype=c
+29028,conhost.exe,C:\Windows\System32\conhost.exe,BATOOL98\batoo,0.0,0.03,1791567446.4007468,running,\??\C:\WINDOWS\system32\conhost.exe 0x4
+29520,SearchProtocolHost.exe,C:\Windows\System32\SearchProtocolHost.exe,,0.0,0.21,1791568850.7741535,running,
+29584,chrome.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,BATOOL98\batoo,0.0,0.1,1791562666.0857425,running,C:\Program Files\Google\Chrome\Application\chrome.exe --type=renderer --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-b
+29672,svchost.exe,C:\Windows\System32\svchost.exe,,0.0,0.02,1791565994.131894,running,
